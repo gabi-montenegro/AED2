@@ -1,0 +1,4 @@
+Para os dois algoritmos, observamos que para valores de p suficientemente grandes, ambos são ineficientes.
+Apesar de serem eficientes quanto à sua análise de complexidade (Fibonacci: O(2^n) e Fatorial: teta(n)), é eficiente para valores pequenos somente.
+
+Conclusão: Para valores suficientemente grandes, a técnica de divisão e conquista não é eficiente.
